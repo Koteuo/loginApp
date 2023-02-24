@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { BrowserRouter, Route, Routes, Outlet } from 'react-router-dom';
 import HomePage from './components/HomePage';
 import ErrorPage from './components/ErrorPage';
